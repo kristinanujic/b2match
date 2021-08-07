@@ -1,0 +1,149 @@
+
+
+.App {
+  text-align: center;
+
+}
+
+#btn1{
+  background-color:rgb(233, 156, 168);
+  border:none;
+}
+
+
+
+#btn1:hover{
+  background-color:white;
+  
+}
+
+.f{
+  color:  rgb(233, 156, 168);
+  font-size: 80px;
+}
+
+.im{
+  border-radius: 30px;
+  margin-bottom: 20px;
+}
+
+.l2{
+  color:grey;
+  text-decoration: none;
+}
+
+.hlink{
+  color:rgb(233, 156, 168);
+  text-decoration: none;
+}
+
+.hlink:hover{
+  color:rgb(165, 164, 164);
+    font-style:italic;
+    text-decoration: none;
+}
+
+.h{
+  color:rgb(233, 156, 168);
+  text-align: left;
+}
+
+.colbut{
+  background-color: rgb(233, 156, 168);
+  border:none;
+}
+
+.l2:hover{
+  color:white;
+  text-decoration: none;
+}
+
+.l1{
+  text-decoration: none;
+  color:white;
+}
+
+.l1:hover{
+  text-decoration: none;
+  color:rgb(233, 156, 168);
+}
+
+.ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(202, 129, 141);
+}
+
+.li {
+  float: left;
+}
+
+.nav-link {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size:15px;
+}
+
+.nav-link:hover{
+  color:rgb(161, 159, 159);
+}
+
+.nav-link:active{
+  color:white;
+  font-weight: bold;
+}
+
+
+
+#na{
+  background-color: rgb(233, 156, 168);
+}
+
+.nav-link{
+  color:white;
+}
+
+.navbar-brand{
+  color:white;
+}
+
+
+
+
+
+
+.navbar-brand:hover{
+  color:white;
+}
+
+
+
+@media(min-width: 767px){
+  .colbut{
+    display: none;
+  }
+  
+}
+
+.navbar-brand{
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+#logo{
+  font-size: 1.75rem;
+}
+
+
+
+.btn{
+  margin-left: 10px;
+
+}
+
+

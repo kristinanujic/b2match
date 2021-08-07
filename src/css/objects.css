@@ -1,0 +1,40 @@
+.obj{
+    display: flex;          
+    flex-direction: column;  
+    justify-content: center; 
+    align-items: center;    
+    height: 800px;
+}
+
+.oul{
+    list-style: none;
+    text-align: center;
+
+
+}
+
+.lis{
+    margin-bottom: 15px;
+}
+
+.olink{
+    text-decoration: none;
+    color:rgb(165, 164, 164);
+    
+}
+
+.olink:hover{
+    color:rgb(202, 129, 141);
+    font-style:italic;
+}
+
+h2,h3{
+    text-align: center;
+    margin-bottom: 20px;
+    color:rgb(202, 129, 141);
+}
+
+.oul p{
+    color:rgb(202, 129, 141);
+}
+
