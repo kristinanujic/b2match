@@ -1,3 +1,5 @@
+#Project for the b2match job interview selection. A simple website using the GeniusAPI to pull basic song info from www.genius.com. Done via rapidAPI so that there would be no user log in.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
